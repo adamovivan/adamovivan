@@ -1,16 +1,21 @@
-### Hi there 👋
+```bash
+$ echo "Hello, World! Welcome to my GitHub bio pipeline."
 
-<!--
-**adamovivan/adamovivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+> DevOps Maestro | Automating the world, one script at a time.
 
-Here are some ideas to get you started:
+$ uptime
+> 99.99% because perfection is a journey, not a destination.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ansible-playbook automate_all.yml
+> [ok] The wand of automation in the hands of a true sorcerer.
+
+$ terraform apply
+> Modifying the space-time continuum - Infrastructure as Temporal Code.
+
+$ docker run -d -p 80:8080 life-essence-app
+> Containerized dreams, deployed happiness.
+
+$ kubectl get pods
+> No pods were harmed in the making of this bio.
+```
